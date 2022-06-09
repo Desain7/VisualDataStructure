@@ -1,0 +1,10 @@
+﻿  VisualDataStructure.cpp
+F:\C_study\easyx\VisualDataStructure\VisualDataStructure\VisualDataStructure.cpp(189,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\C_study\easyx\VisualDataStructure\VisualDataStructure\VisualDataStructure.cpp(708,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\C_study\easyx\VisualDataStructure\VisualDataStructure\VisualDataStructure.cpp(865,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\C_study\easyx\VisualDataStructure\VisualDataStructure\VisualDataStructure.cpp(973,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\C_study\easyx\VisualDataStructure\VisualDataStructure\VisualDataStructure.cpp(1220,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\C_study\easyx\VisualDataStructure\VisualDataStructure\VisualDataStructure.cpp(1801,21): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+F:\C_study\easyx\VisualDataStructure\VisualDataStructure\VisualDataStructure.cpp(1806,21): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+F:\C_study\easyx\VisualDataStructure\VisualDataStructure\Snake.cpp(180): warning C4715: “snakedie”: 不是所有的控件路径都返回值
+  VisualDataStructure.vcxproj -> F:\C_study\easyx\VisualDataStructure\Debug\VisualDataStructure.exe
